@@ -5,7 +5,7 @@ from numpy import int64
 from sklearn.decomposition import FactorAnalysis
 from sklearn.preprocessing import StandardScaler
 
-base_path: str = "/content/drive/MyDrive/Progetti/Micelli/"
+base_path: str = "data/"
 
 data: DataFrame
 
